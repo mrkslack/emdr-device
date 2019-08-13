@@ -1,0 +1,3 @@
+Code for 'EMDR device'. 
+This device is built with an arduino nano, a Neo-Pixel strip and a bluetooth module.
+Few leds run onto the strip and through bluetooth commands can be started, stopped or change their speed.
